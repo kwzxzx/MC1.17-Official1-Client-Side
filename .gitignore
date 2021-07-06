@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.minecraft\saves
+.minecraft\config
+.minecraft\CustomSkinLoader
+.minecraft\logs
+.minecraft\XaeroWaypoints
+.minecraft\XaeroWaypoints_BACKUP032021
+.minecraft\XaeroWorldMap
+.minecraft\launcher_profiles.json
+.minecraft\options.txt
+.minecraft\usercache.json
+hmcl.json
