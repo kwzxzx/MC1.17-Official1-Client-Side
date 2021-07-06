@@ -5,7 +5,7 @@
 .minecraft/XaeroWaypoints/
 .minecraft/XaeroWaypoints_BACKUP032021/
 .minecraft/XaeroWorldMap/
-.minecraft/launcher_profiles.json/
-.minecraft/options.txt/
-.minecraft/usercache.json/
+.minecraft/launcher_profiles.json
+.minecraft/options.txt
+.minecraft/usercache.json
 hmcl.json
