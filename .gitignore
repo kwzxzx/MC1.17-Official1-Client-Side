@@ -5,11 +5,14 @@
 .minecraft/XaeroWaypoints/
 .minecraft/XaeroWaypoints_BACKUP032021/
 .minecraft/XaeroWorldMap/
+.minecraft/assets/skins/
+.minecraft/patched_shaders/
 .minecraft/.mixin.out
 .minecraft/launcher_profiles.json
 .minecraft/options.txt
 .minecraft/usercache.json
 .minecraft/servers.dat
+.minecraft/mods/iris-mc1.17-1.1.0.jar
 hmcl.json
 服务器地址.txt
 客户端使用及联网说明.txt
