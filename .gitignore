@@ -21,4 +21,5 @@ hmcl.json
 .minecraft/mods/betterf3-1.1.5+1.17
 .minecraft/mods/immersive-portals-0.07-mc1.17-fabric
 .minecraft/versions/1.17/.abnormal
-.minecraft/assets/objects
+.minecraft/assets/objects/
+.minecraft/crash-reports/
