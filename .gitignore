@@ -12,7 +12,6 @@
 .minecraft/options.txt
 .minecraft/usercache.json
 .minecraft/servers.dat
-.minecraft/mods/iris-mc1.17-1.1.0.jar
 hmcl.json
 服务器地址.txt
 客户端使用及联网说明.txt
@@ -21,3 +20,8 @@ hmcl.json
 .minecraft/mods/betterf3-1.1.5+1.17
 .minecraft/mods/immersive-portals-0.07-mc1.17-fabric
 .minecraft/versions/1.17/.abnormal
+.minecraft/mods/BetterSodiumVideoSettingsButton-2.0.0
+.minecraft/mods/elytratrinket-fabric-2.0.1-1.17
+.minecraft/mods/trinkets-3.0.0
+.minecraft/mods/iris-mc1.17-1.1.0.jar
+.minecraft/mods/trinketshulkerboxes-fabric-2.0.0-1.17
