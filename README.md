@@ -1,11 +1,5 @@
-#2021年7月8日-7月9日新增MOD：
-## 本次更新MOD共54个，其中包含44个新增MOD、10个可选MOD。  
+# 2021年7月13日：  
+由于背包BUG，将目前正在使用“trinkets-3.0.0“、”elytratrinket-fabric-2.0.1-1.17”、“trinketshulkerboxes-fabric-2.0.0-1.17“放入可选MOD中。  
 
-内容较多，希望大家能仔细在WIKI阅读一下更新内容后，实际装一下，挑出自己比较喜欢觉得可以有的，告诉我，我会装到服务器上。  
-
-另外，除了需要两为玩家以上才能测试的mod外，其他mod都以经过测试，互相兼容且能稳定运行。如游玩过程中遇到任何问题，请及时反映，谢谢。希望大家周末玩的开心。  
-
-新增MOD主要针对：游戏机制、以及游戏内容两个方面，另加交互界面、管理方面MOD内容。  
-
-# More Details in wiki
-https://github.com/kwzxzx/MC1.17-Official1-Client-Side/wiki
+# More Details in wiki  
+https://github.com/kwzxzx/MC1.17-Official1-Client-Side/wiki  
