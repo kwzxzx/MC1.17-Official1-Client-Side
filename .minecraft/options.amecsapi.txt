@@ -32,7 +32,6 @@ key_modifiers_key.hotbar.6:
 key_modifiers_key.hotbar.7:
 key_modifiers_key.hotbar.8:
 key_modifiers_key.hotbar.9:
-key_modifiers_toggle:
 key_modifiers_key.fabrishot.screenshot:
 key_modifiers_key.expandedstorage.config:
 key_modifiers_key.adventurez.activatearmor:
