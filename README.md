@@ -1,5 +1,7 @@
-## fabric-carpet-1.17-1.4.40+v210608 
-添加了可行动的NPC，以及一些功能，“让你从技术层面完全的去控制游戏的方方面面”
-### 请参考    
-https://www.bilibili.com/video/BV17r4y1T7z9?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1628037413&unique_k=eenwi3
-https://www.bilibili.com/video/BV1hE411D7um
+## 2021年8月10日更新：
+
+### hwyla-addon-horseinfo-0.3.0-1.17
+可以看到马的详细数据
+
+### pipe-1.17-1.3.1++flytre_lib-1.17-0.2.18
+大量物品传输时容易出现BUG，改为可选。flytre_lib为其前置，同样改为可选。
